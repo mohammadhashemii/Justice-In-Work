@@ -1,5 +1,5 @@
 # Justice in work?!
-This projet is the challenge of [rahnema college](https://rahnemacollege.com) entrance test, so the codes will be uploaded later!
+This project is the challenge of [rahnema college](https://rahnemacollege.com) entrance test, so the codes will be uploaded later!
 
 
 # Dataset
