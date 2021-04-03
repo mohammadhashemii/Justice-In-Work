@@ -13,8 +13,8 @@ The feature description can be found here:
 ![](https://github.com/mohammadhashemii/Justice-In-Work/blob/master/images/feature%20description.png)
 
 
-# Project discription
+# Project description
 
-The goal of this project is to predict a request from a sepcific user a is fraud or not. The full explenation can be found in [*TODO.pdf*](https://github.com/mohammadhashemii/Justice-In-Work/blob/master/TODO.pdf)
+The goal of this project is to predict a request from a specific  user a is fraud or not. The full explanation can be found in [*TODO.pdf*](https://github.com/mohammadhashemii/Justice-In-Work/blob/master/TODO.pdf)
 
 The implementation of it is well documented in the source code file.
